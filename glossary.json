@@ -1,0 +1,26 @@
+{
+  "term": "Climatelag",
+  "definition": "Temporal delay between greenhouse gas emissions and resulting climate impacts creating intertemporal externalities.",
+  "etymology": "Compound: 'climate' + 'lag'.",
+  "field": "Environmental/Climate Economics",
+  "subfields": [
+    "Environmental/Climate Economics",
+    "Public Economics (policy design)",
+    "Behavioral Economics (temporal discounting)"
+  ],
+  "jel_codes": [
+    "D91",
+    "H41",
+    "Q54"
+  ],
+  "synonyms": [
+    "climate response lag"
+  ],
+  "related_concepts": [
+    "Climate inertia",
+    "Intertemporal externality",
+    "Policy delay costs"
+  ],
+  "first_usage": "2026",
+  "status": "emerging"
+}

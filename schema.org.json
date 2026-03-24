@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Climatelag",
+  "description": "Temporal delay between greenhouse gas emissions and resulting climate impacts creating intertemporal externalities.",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Economic Terminology",
+    "datePublished": "2026-02-17"
+  },
+  "termCode": "D91"
+}
